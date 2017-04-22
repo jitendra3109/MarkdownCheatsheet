@@ -1,4 +1,6 @@
-Markdown Cheatsheet
+# Markdown Cheatsheet
+
+Created by : Jitendra Singh
 ===================
 
 - - - - 
@@ -138,3 +140,5 @@ _Image with alt :_
 ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
 
     Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+=======
+
